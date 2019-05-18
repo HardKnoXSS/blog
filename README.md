@@ -29,8 +29,10 @@ We're a group of computer security engineers and we play CTFs in the effort to h
 * https://gchq.github.io/CyberChef/
 * https://cryptii.com/
 
-#Contact Info
+# Contact Info
 
 Twitter: @hardknoxssctf
 Email: hardknoxssctf@gmail.com  
 
+# Blog
+* https://hardknoxss.github.io/blog/

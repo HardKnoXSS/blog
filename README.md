@@ -1,10 +1,11 @@
 # Welcome to HardKnoXSS CTF Group
 
-We're a group of computer security engineers and we play CTFs in the effort to have fun and understand weird quirks in the software we trust.
+We're a group of computer security engineers and we play CTFs for fun.
 
 # Writeups
-* [Codemash 19']("writeups/codemash19")
-* [Texas A&M CTF 19']("writeups/tamuctf19")
+* [Codemash 19'](writeups/codemash19)
+* [Texas A&M CTF 19'](writeups/tamuctf19)
+* [Facebook CTF 19'](writeups/facebook19)
 
 # Members (in no particular order)
 
